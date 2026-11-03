@@ -1,13 +1,59 @@
 # app-dev
 
-# My Favorite Series
+# app-dev
 
-## Stranger Things
+## My Favorite Series
 
-I like Stranger Things because it is exciting and full of mystery.
+### Green Lantern
 
-### Characters
+**Green Lantern** is my favorite series.
 
-- Eleven
-- Mike
-- Dustin
+*I like this series because it is exciting and full of action.*
+
+> "In brightest day, in blackest night."
+
+### Main Characters
+
+- Hal Jordan
+- John Stewart
+- Sinestro
+
+### Top 3 Reasons Why I Like It
+
+1. Amazing powers
+2. Action-packed story
+3. Interesting characters
+
+### Official Link
+
+[DC Comics](https://www.dc.com)
+
+### Sample Table
+
+| Character | Role |
+| ---------- | ---------- |
+| Hal Jordan | Green Lantern |
+| John Stewart | Green Lantern |
+| Sinestro | Villain |
+
+### Task List
+
+- [x] Watch Green Lantern
+- [x] Read comics
+- [ ] Collect merchandise
+
+### Code Example
+
+`Green Lantern Power Ring`
+
+### Strikethrough
+
+~~Fear cannot stop Green Lantern.~~
+
+### Emoji
+
+:smile:
+
+---
+
+`Favorite Series Project`
