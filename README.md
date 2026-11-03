@@ -1,7 +1,5 @@
 # app-dev
 
-# app-dev
-
 ## My Favorite Series
 
 ### Green Lantern
