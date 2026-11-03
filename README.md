@@ -42,18 +42,4 @@
 - [x] Read comics
 - [ ] Collect merchandise
 
-### Code Example
 
-`Green Lantern Power Ring`
-
-### Strikethrough
-
-~~Fear cannot stop Green Lantern.~~
-
-### Emoji
-
-:smile:
-
----
-
-`Favorite Series Project`
